@@ -63,5 +63,3 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-hunt327&" alt="david-hunt327" /></p>
 
-
-![snake gif](https://github.com/David-Hunt327/David-Hunt327/blob/output/github-contribution-grid-snake.svg)
