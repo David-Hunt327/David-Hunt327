@@ -66,4 +66,4 @@
 
 
 
-![snake gif](https://github.com/David-Hunt327/David-Hunt327/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/David-Hunt327/David-Hunt327/blob/output/github-contribution-grid-snake.gif)
